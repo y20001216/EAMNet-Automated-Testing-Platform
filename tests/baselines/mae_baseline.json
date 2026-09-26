@@ -1,0 +1,26 @@
+{
+    "test_camo_1.jpg": {
+        "mae": 0.020633,
+        "f_measure": 0.977054
+    },
+    "test_camo_2.jpg": {
+        "mae": 0.016227,
+        "f_measure": 0.938258
+    },
+    "test_camo_3.jpg": {
+        "mae": 0.013263,
+        "f_measure": 0.976914
+    },
+    "test_camo_4.jpg": {
+        "mae": 0.067433,
+        "f_measure": 0.870043
+    },
+    "test_camo_5.jpg": {
+        "mae": 0.096727,
+        "f_measure": 0.738255
+    },
+    "average": {
+        "mae": 0.042857,
+        "f_measure": 0.900105
+    }
+}

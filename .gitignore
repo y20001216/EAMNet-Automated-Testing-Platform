@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.idea/
+
+# Allure generated files
+allure-results/
+allure-report/
+
+# Model training outputs
+snapshot/
+
+# Model weights
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test generated results
+results/
+
+# Personal practice code
+already/

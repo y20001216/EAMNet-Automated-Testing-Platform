@@ -1,0 +1,10 @@
+{
+    "model": "EAMNet",
+    "device": "cuda",
+    "test_size": 352,
+    "warmup_rounds": 3,
+    "test_rounds": 5,
+    "average_inference_time": 0.101461,
+    "min_inference_time": 0.092867,
+    "max_inference_time": 0.105428
+}
